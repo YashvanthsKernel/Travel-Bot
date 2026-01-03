@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="TravelBot AI Banner" width="100%"/>
-
 # 🌍 TravelBot AI
 
 ### *Your Intelligent Travel Companion for Exploring India*
@@ -112,20 +110,23 @@ Recommendations across Tourist Spots, Food, Hotels, and Shopping
 
 Our recommendation engine uses a **two-stage ML pipeline** to understand your travel queries and find the best matches:
 
-```mermaid
-graph LR
-    A[🗣️ User Query] --> B[📝 TF-IDF Vectorization]
-    B --> C[🧠 Neural Network]
-    C --> D[🎯 Classification]
-    D --> E[📍 Recommendation]
-    E --> F[📊 Rich Details]
-    
-    style A fill:#e1f5fe
-    style B fill:#fff3e0
-    style C fill:#fce4ec
-    style D fill:#e8f5e9
-    style E fill:#f3e5f5
-    style F fill:#fff8e1
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                           🧠 ML PIPELINE FLOW                               │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│   ┌──────────────┐    ┌───────────────────┐    ┌──────────────────┐        │
+│   │  🗣️ User     │    │  📝 TF-IDF        │    │  🧠 Neural       │        │
+│   │    Query     │ ──▶│   Vectorization   │ ──▶│    Network       │        │
+│   └──────────────┘    └───────────────────┘    └──────────────────┘        │
+│                                                         │                   │
+│                                                         ▼                   │
+│   ┌──────────────┐    ┌───────────────────┐    ┌──────────────────┐        │
+│   │  📊 Rich     │    │  📍 Place         │    │  🎯 Classification│        │
+│   │   Details    │ ◀──│   Recommendation  │ ◀──│    Output        │        │
+│   └──────────────┘    └───────────────────┘    └──────────────────┘        │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ### Model Architecture
@@ -163,8 +164,8 @@ pip install torch pandas streamlit scikit-learn joblib
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/travel-planner.git
-cd travel-planner/Code
+git clone https://github.com/YashvanthsKernel/Travel-Bot.git
+cd Travel-Bot/Code
 
 # Train the model (optional - pre-trained model included)
 python train_model.py
