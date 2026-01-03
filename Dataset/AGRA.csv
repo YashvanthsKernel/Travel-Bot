@@ -1,0 +1,45 @@
+Type,Name,Category,Location,Price_Range_INR,Entry_Fee_INR,Best_Time_Duration,Operating_Hours,Specialty_Description,Rating,Contact,Payment_Methods
+Tourist_Spot,Taj Mahal,UNESCO World Heritage,Taj Ganj,50-1100,50 (Indian) 1100 (Foreign),Sunrise/Sunset 2-3 hours,6AM-6:30PM (Fri closed),Symbol of love white marble mausoleum,4.8,0562-222-6431,Cash Card
+Tourist_Spot,Agra Fort,UNESCO World Heritage,Agra Fort,40-650,40 (Indian) 650 (Foreign),Daily 2-3 hours,6AM-6PM,Red sandstone Mughal fort palace complex,4.5,0562-222-6431,Cash Card
+Tourist_Spot,Fatehpur Sikri,UNESCO World Heritage,Fatehpur Sikri,30-550,30 (Indian) 550 (Foreign),Daily 3-4 hours,6AM-6PM,Abandoned Mughal city Buland Darwaza,4.4,05613-282-377,Cash Card
+Tourist_Spot,Itimad-ud-Daulah,Mughal Monument,Yamuna Bank,30-550,30 (Indian) 550 (Foreign),Daily 1-2 hours,6AM-6PM,Baby Taj marble inlay work,4.3,0562-233-0498,Cash Card
+Tourist_Spot,Mehtab Bagh,Garden,Yamuna Bank,30-550,30 (Indian) 550 (Foreign),Evening 1-2 hours,6AM-6PM,Moonlight garden Taj Mahal sunset view,4.2,0562-222-6431,Cash Card
+Tourist_Spot,Akbar's Tomb,Mughal Monument,Sikandra,30-550,30 (Indian) 550 (Foreign),Daily 1-2 hours,6AM-6PM,Emperor Akbar mausoleum Indo-Islamic architecture,4.1,0562-264-1230,Cash Card
+Tourist_Spot,Chini Ka Rauza,Mughal Monument,Yamuna Bank,25-300,25 (Indian) 300 (Foreign),Daily 1 hour,6AM-6PM,Persian poet tomb glazed tile work,4.0,0562-222-6431,Cash Card
+Tourist_Spot,Jama Masjid,Religious Site,Agra Fort Area,Free,Free,Daily 45 mins,5AM-9PM,Beautiful Mughal mosque red sandstone,4.2,0562-246-3421,N/A
+Tourist_Spot,Ram Bagh,Garden,Civil Lines,20-200,20 (Indian) 200 (Foreign),Daily 1 hour,6AM-6PM,First Mughal garden charbagh style,3.9,0562-233-1106,Cash Card
+Tourist_Spot,Wildlife SOS,Conservation Center,Sur Sarovar,200-500,200 (Adult) 100 (Child),Daily 2-3 hours,9AM-5PM,Elephant and bear rescue center,4.4,0562-400-4100,Cash Card UPI
+Shopping_Spot,Sadar Bazaar,Traditional Market,Sadar,200-3000,Free entry,Daily,10AM-9PM,Leather goods handicrafts marble items,4.0,N/A,Cash UPI
+Shopping_Spot,Kinari Bazaar,Traditional Market,Agra Fort Area,150-2500,Free entry,Daily,10AM-8PM,Textiles embroidery traditional wear,4.1,N/A,Cash UPI
+Shopping_Spot,Taj Ganj Market,Souvenir Market,Taj Ganj,100-1500,Free entry,Daily,9AM-8PM,Taj Mahal replicas marble souvenirs,3.9,N/A,Cash
+Shopping_Spot,Raja Ki Mandi,Wholesale Market,Raja Ki Mandi,80-1200,Free entry,Daily,9AM-7PM,Spices grains wholesale goods,3.8,N/A,Cash
+Shopping_Spot,TDI Mall,Shopping Mall,Fatehabad Road,800-5000,Free entry,Daily,10AM-10PM,Branded goods food court entertainment,4.2,0562-400-5000,Card Cash UPI
+Shopping_Spot,Fun Republic Mall,Shopping Mall,Sanjay Place,600-4000,Free entry,Daily,10AM-10PM,Cinema multiplex branded stores,4.1,0562-405-5555,Card Cash UPI
+Shopping_Spot,Pacific Mall,Shopping Mall,Fatehabad Road,700-4500,Free entry,Daily,10AM-10PM,Shopping dining entertainment,4.0,0562-406-7000,Card Cash UPI
+Shopping_Spot,Subhash Bazaar,Local Market,Civil Lines,100-800,Free entry,Daily,10AM-8PM,Local goods daily essentials,3.7,N/A,Cash UPI
+Shopping_Spot,Shah Market,Traditional Market,Shah Ganj,120-1800,Free entry,Daily,10AM-8PM,Textiles leather goods,3.9,N/A,Cash UPI
+Shopping_Spot,Rawatpara Market,Shoe Market,Rawatpara,200-2000,Free entry,Daily,10AM-8PM,Famous for leather shoes footwear,4.0,N/A,Cash UPI
+Restaurant,Pinch of Spice,North Indian,Fatehabad Road,600-1200,N/A,Daily,12PM-11PM,Contemporary Indian cuisine ambiance,4.3,0562-406-1234,Card Cash UPI
+Restaurant,Peshawri,North Indian,ITC Mughal,2500-4500,N/A,Daily,7:30PM-11:45PM,Authentic Northwest Frontier cuisine,4.5,0562-402-1700,Card UPI
+Restaurant,Esphahan,Mughlai Fine Dining,Oberoi Amarvilas,3000-5000,N/A,Daily,7:30PM-11:30PM,Royal Mughlai cuisine Taj view,4.6,0562-223-1515,Card UPI
+Restaurant,Dasaprakash,South Indian,Fatehabad Road,200-500,N/A,Daily,8AM-11PM,Authentic South Indian vegetarian,4.1,0562-233-0755,Card Cash UPI
+Restaurant,Joney's Place,Multi-cuisine,Taj Ganj,300-700,N/A,Daily,8AM-11PM,Rooftop dining Taj Mahal view,4.0,0562-233-1860,Card Cash UPI
+Restaurant,Shankara Vegis,Pure Vegetarian,Sanjay Place,150-400,N/A,Daily,11AM-11PM,Traditional vegetarian thali,4.2,0562-246-1527,Cash UPI
+Restaurant,Only Restaurant,Mughlai,Taj Ganj,250-600,N/A,Daily,8AM-11PM,Traditional Mughlai dishes budget-friendly,3.9,0562-233-0219,Cash UPI
+Restaurant,Cafe Coffee Day,Cafe,Multiple locations,150-350,N/A,Daily,8AM-11PM,Coffee snacks casual dining,4.0,Multiple,Card Cash UPI
+Restaurant,Mama Chicken,Non-vegetarian,Sanjay Place,200-500,N/A,Daily,11AM-11PM,Famous for chicken dishes local favorite,4.1,0562-246-8888,Cash UPI
+Restaurant,Taj Restaurant,Multi-cuisine,Taj Ganj,180-450,N/A,Daily,7AM-11PM,Rooftop dining budget-friendly,3.8,0562-233-1456,Cash
+Hotel,The Oberoi Amarvilas,Luxury,Taj East Gate,45000-80000,N/A,Daily,24 hours check-in,Taj Mahal view luxury spa butler service,4.8,0562-223-1515,Card UPI
+Hotel,ITC Mughal,Luxury,Fatehabad Road,15000-35000,N/A,Daily,24 hours check-in,Mughal architecture luxury amenities spa,4.6,0562-402-1700,Card Cash UPI
+Hotel,Radisson Hotel Agra,Business,Fatehabad Road,8000-18000,N/A,Daily,24 hours check-in,Business facilities modern amenities,4.4,0562-402-9000,Card Cash UPI
+Hotel,Courtyard by Marriott,Business,Fatehabad Road,10000-22000,N/A,Daily,24 hours check-in,International standards pool spa,4.5,0562-402-5000,Card Cash UPI
+Hotel,Crystal Sarovar Premiere,Mid-range,Fatehabad Road,5000-12000,N/A,Daily,24 hours check-in,Pool restaurant conference facilities,4.2,0562-402-5555,Card Cash UPI
+Hotel,Hotel Tajview,Mid-range,Fatehabad Road,3500-8000,N/A,Daily,24 hours check-in,Taj Mahal view rooftop restaurant,4.1,0562-233-2400,Card Cash UPI
+Hotel,Hotel Atulyaa Taj,Mid-range,Taj East Gate,4000-9000,N/A,Daily,24 hours check-in,Close to Taj Mahal modern amenities,4.0,0562-223-2030,Card Cash UPI
+Hotel,Hotel Sheela,Budget,Taj Ganj,2000-4500,N/A,Daily,24 hours check-in,Traditional area budget accommodation,3.9,0562-233-1194,Cash Card UPI
+Hotel,Hotel Kamal,Budget,Taj Ganj,1800-4000,N/A,Daily,24 hours check-in,Rooftop restaurant Taj proximity,3.8,0562-233-0126,Cash UPI
+Hotel,Zostel Agra,Hostel,Taj Ganj,800-2000,N/A,Daily,24 hours check-in,Backpacker hostel common areas,4.1,0562-405-7890,Card Cash UPI
+Hotel,Backpackers Hostel,Hostel,Sanjay Place,600-1500,N/A,Daily,24 hours check-in,Budget travelers shared rooms,3.9,0562-246-7777,Cash UPI
+Hotel,Hotel Safari,Budget,Taj Ganj,1500-3500,N/A,Daily,24 hours check-in,Basic amenities Taj area,3.7,0562-233-0115,Cash UPI
+Hotel,Homestay Agra,Homestay,Civil Lines,2500-5000,N/A,Daily,24 hours check-in,Local family experience home-cooked meals,4.2,9412-345-678,Card Cash UPI
+Hotel,Heritage Villa,Heritage,Dayalbagh,6000-15000,N/A,Daily,24 hours check-in,Restored haveli traditional architecture,4.3,0562-280-5555,Card Cash UPI

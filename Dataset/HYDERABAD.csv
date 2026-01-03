@@ -1,0 +1,55 @@
+Category,Sub_Category,Name,Location_Area,Price_Range_INR,Description,Rating,Contact_Timings
+Tourist Spots,Historic,Charminar,Old City,25-50,Iconic 16th-century monument and symbol of Hyderabad,4.5/5,9:30 AM - 5:30 PM
+Tourist Spots,Historic,Golconda Fort,Golconda,25-200,Magnificent ruined city and fortress complex,4.6/5,9:00 AM - 5:30 PM
+Tourist Spots,Tomb,Qutb Shahi Tombs,Ibrahim Bagh,25-100,Royal necropolis with Indo-Islamic architecture,4.4/5,9:30 AM - 4:30 PM
+Tourist Spots,Palace,Chowmahalla Palace,Khilwat,80-200,Former seat of Asaf Jahi dynasty with stunning architecture,4.5/5,10:00 AM - 5:00 PM
+Tourist Spots,Lake,Hussain Sagar Lake,Tank Bund,Free-500,Heart-shaped lake with Buddha statue and boat rides,4.3/5,5:00 AM - 10:00 PM
+Tourist Spots,Modern,Ramoji Film City,Abdullahpurmet,1200-2500,Worlds largest film studio complex with guided tours,4.4/5,9:00 AM - 5:30 PM
+Tourist Spots,Religious,Birla Mandir,Naubat Pahad,Free,White marble temple with panoramic city views,4.4/5,7:00 AM - 12:00 PM & 3:00 PM - 9:00 PM
+Tourist Spots,Museum,Salar Jung Museum,Darushifa,20-500,One of Indias largest museums with diverse collections,4.5/5,10:00 AM - 5:00 PM
+Tourist Spots,Modern,Hitec City,Cyberabad,Free,IT hub with modern architecture and corporate offices,4.2/5,24 hours
+Tourist Spots,Park,Lumbini Park,Secretariat Road,30-100,Urban park with laser show and musical fountain,4.1/5,5:00 AM - 10:00 PM
+Tourist Spots,Zoo,Nehru Zoological Park,Bahadurpura,50-200,Large zoo with safari and diverse wildlife,4.2/5,8:30 AM - 5:00 PM
+Tourist Spots,Lake,Osman Sagar,Gandipet,Free-300,Scenic lake and reservoir with boating facilities,4.3/5,6:00 AM - 6:00 PM
+Tourist Spots,Religious,Mecca Masjid,Charminar,Free,One of largest mosques in India near Charminar,4.3/5,4:00 AM - 10:00 PM
+Tourist Spots,Modern,Durgam Cheruvu,Madhapur,Free-200,Rock-surrounded secret lake in IT corridor,4.2/5,5:00 AM - 8:00 PM
+Shopping,Market,Laad Bazaar,Charminar,100-5000,Famous for bangles pearls and traditional items,4.3/5,10:00 AM - 10:00 PM
+Shopping,Pearls,Mangatrai Pearls,Basheerbagh,500-50000,Authentic Hyderabadi pearls and jewelry,4.4/5,10:00 AM - 8:00 PM
+Shopping,Mall,Inorbit Mall,Madhapur,300-8000,Modern shopping mall with international brands,4.2/5,10:00 AM - 10:00 PM
+Shopping,Mall,Forum Sujana Mall,Kukatpally,400-7000,Large mall with shopping dining and entertainment,4.1/5,10:00 AM - 10:00 PM
+Shopping,Handicrafts,Lepakshi Handicrafts,Gun Foundry,200-3000,Government emporium for authentic handicrafts,4.0/5,10:30 AM - 8:00 PM
+Shopping,Textiles,Pochampally Handlooms,Pochampally,300-4000,Traditional ikat textiles and handwoven sarees,4.3/5,9:00 AM - 7:00 PM
+Shopping,Market,Begum Bazaar,Sultan Bazaar,50-2000,Wholesale market for textiles and general goods,4.0/5,10:00 AM - 9:00 PM
+Shopping,Modern,GVK One Mall,Banjara Hills,500-10000,Upscale mall with luxury brands and fine dining,4.3/5,10:00 AM - 10:00 PM
+Food,Biryani,Paradise Restaurant,Multiple locations,300-800,Iconic restaurant famous for Hyderabadi biryani,4.4/5,11:00 AM - 11:00 PM
+Food,Biryani,Bawarchi,RTC Cross Roads,250-600,Popular for authentic Hyderabadi biryani,4.3/5,11:00 AM - 11:30 PM
+Food,Traditional,Shah Ghouse,Tolichowki,200-500,Famous for haleem and mutton dishes,4.5/5,11:00 AM - 12:00 AM
+Food,Sweets,Pista House,Multiple locations,100-400,Famous for haleem dry fruits and sweets,4.4/5,8:00 AM - 11:00 PM
+Food,Fine Dining,Jewel of Nizam,ITC Kakatiya,2000-4000,Royal Nizami cuisine in luxury setting,4.6/5,7:30 PM - 11:30 PM
+Food,Irani Cafe,Nimrah Cafe,Charminar,50-200,Historic Irani cafe famous for tea and osmania biscuits,4.5/5,6:00 AM - 11:00 PM
+Food,Street Food,Gokul Chat,Koti,30-150,Popular street food joint for chaat and snacks,4.2/5,11:00 AM - 10:00 PM
+Food,Traditional,Hotel Shadab,Charminar,150-400,Old restaurant known for Hyderabadi cuisine,4.3/5,11:00 AM - 11:00 PM
+Food,Modern,Absolute Barbecues,Jubilee Hills,1200-2500,Popular buffet restaurant with live grills,4.2/5,12:00 PM - 11:00 PM
+Food,Multi-cuisine,Rayalaseema Ruchulu,Multiple locations,300-800,Authentic Andhra cuisine restaurant,4.4/5,11:30 AM - 11:00 PM
+Food,Cafe,Concu,Banjara Hills,400-1000,Trendy cafe with continental and Indian fusion,4.1/5,8:00 AM - 11:00 PM
+Food,Traditional,Grand Hotel,Abids,200-600,Historic hotel restaurant serving Hyderabadi dishes,4.2/5,11:00 AM - 10:30 PM
+Hotels,Luxury,ITC Kakatiya,Begumpet,8000-25000,5-star luxury hotel with heritage Nizami hospitality,4.5/5,Check-in: 2:00 PM
+Hotels,Luxury,Taj Falaknuma Palace,Falaknuma,25000-80000,Restored Nizam palace converted to luxury hotel,4.7/5,Check-in: 2:00 PM
+Hotels,Heritage,Taj Krishna,Banjara Hills,6000-18000,Business hotel with modern amenities,4.4/5,Check-in: 2:00 PM
+Hotels,Mid-Range,Hotel Sitara Grand,Banjara Hills,3000-8000,Comfortable hotel with good location,4.2/5,Check-in: 12:00 PM
+Hotels,Budget,Hotel Saptagiri,Secunderabad,1500-4000,Budget hotel near railway station,4.0/5,Check-in: 12:00 PM
+Hotels,Luxury,Park Hyatt Hyderabad,Banjara Hills,12000-35000,Ultra-modern luxury hotel with spa,4.6/5,Check-in: 3:00 PM
+Hotels,Mid-Range,FabHotel Prime,Gachibowli,2500-6000,Modern business hotel in IT corridor,4.1/5,Check-in: 2:00 PM
+Hotels,Heritage,Golkonda Hotel,Masab Tank,4000-12000,Heritage property with traditional architecture,4.3/5,Check-in: 2:00 PM
+Hotels,Budget,Zostel Hyderabad,Gachibowli,800-2500,Backpacker hostel with modern facilities,4.2/5,Check-in: 2:00 PM
+Hotels,Boutique,Moksha Himalaya Spa Resort,Shamirpet,5000-15000,Resort and spa away from city,4.4/5,Check-in: 2:00 PM
+Hotels,Mid-Range,Hotel Marigold,Begumpet,2000-5500,Business hotel near airport,4.1/5,Check-in: 12:00 PM
+Hotels,Luxury,Marriott Hyderabad,Tank Bund Road,10000-30000,International luxury hotel with lake views,4.5/5,Check-in: 3:00 PM
+Tourist Spots,Entertainment,Snow World,Lower Tank Bund,400-600,Indoor snow theme park and entertainment,4.1/5,11:00 AM - 9:00 PM
+Tourist Spots,Modern,Shilparamam,Madhapur,50-100,Arts and crafts village with cultural performances,4.2/5,10:30 AM - 8:00 PM
+Tourist Spots,Religious,Jagannath Temple,Banjara Hills,Free,Modern temple with South Indian architecture,4.3/5,6:00 AM - 12:00 PM & 4:00 PM - 9:00 PM
+Tourist Spots,Park,KBR National Park,Jubilee Hills,Free,Urban forest park for nature lovers,4.4/5,5:30 AM - 9:00 AM & 3:30 PM - 6:30 PM
+Tourist Spots,Modern,Inorbit Mall Cyberabad,Hitec City,Free-500,Shopping and entertainment complex,4.1/5,10:00 AM - 10:00 PM
+Tourist Spots,Lake,Shamirpet Lake,Shamirpet,Free-200,Peaceful lake ideal for picnics and boating,4.2/5,6:00 AM - 6:00 PM
+Food,Traditional,Alpha Hotel,Abids,150-400,Famous for mutton biryani and kebabs,4.3/5,11:00 AM - 11:00 PM
+Food,Desserts,Almond House,Multiple locations,200-800,Premium sweets and dry fruits,4.4/5,8:00 AM - 10:00 PM

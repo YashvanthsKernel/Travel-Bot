@@ -1,0 +1,43 @@
+Type,Name,Category,Location,Price_Range_INR,Entry_Fee_INR,Best_Time_Duration,Operating_Hours,Specialty_Description,Rating,Contact,Payment_Methods
+Tourist_Spot,Red Fort,Historical Monument,Old Delhi,35-500,35 (Indian) 500 (Foreign),Oct-Mar 2-3 hours,9AM-6PM,UNESCO World Heritage Site Mughal architecture,4.3,011-2327-7705,Cash Card
+Tourist_Spot,India Gate,Memorial,Central Delhi,Free,Free,Evening/Night 1-2 hours,24 hours,War memorial and popular picnic spot,4.4,N/A,N/A
+Tourist_Spot,Qutub Minar,Historical Monument,Mehrauli,30-500,30 (Indian) 500 (Foreign),Oct-Mar 2-3 hours,Sunrise-Sunset,UNESCO World Heritage tallest brick minaret,4.4,011-2664-9362,Cash Card
+Tourist_Spot,Humayun's Tomb,Historical Monument,Nizamuddin,30-500,30 (Indian) 500 (Foreign),Oct-Mar 2-3 hours,6AM-6PM,UNESCO World Heritage Mughal tomb,4.4,011-2435-5275,Cash Card
+Tourist_Spot,Lotus Temple,Religious Site,Kalkaji,Free,Free,Tue-Sun 1-2 hours,9AM-7PM,Bahai House of Worship unique architecture,4.4,011-2644-4029,N/A
+Tourist_Spot,Akshardham Temple,Religious Site,East Delhi,Free,Free (exhibitions extra),Tue-Sun 3-4 hours,9:30AM-6:30PM,Modern Hindu temple complex,4.5,011-4302-4344,Cash Card
+Tourist_Spot,Jama Masjid,Religious Site,Old Delhi,Free,Free,Daily 1-2 hours,7AM-12PM 1:30PM-6:30PM,Largest mosque in India,4.3,011-2327-0456,N/A
+Tourist_Spot,Rajghat,Memorial,Central Delhi,Free,Free,Daily 1 hour,7AM-7PM (Summer) 7AM-5:30PM (Winter),Mahatma Gandhi memorial,4.2,011-2331-1071,N/A
+Tourist_Spot,National Museum,Museum,Central Delhi,20-650,20 (Indian) 650 (Foreign),Tue-Sun 2-3 hours,10AM-6PM,India's largest museum,4.2,011-2301-9272,Cash Card
+Tourist_Spot,Chandni Chowk,Market/Historical,Old Delhi,Free,Free,Daily 2-4 hours,10AM-9PM,Historic market area street food hub,4.1,N/A,Cash UPI
+Shopping_Spot,Connaught Place,Shopping Mall,Central Delhi,1000-5000,Free entry,Daily,10AM-10PM,Branded goods restaurants,4.2,N/A,Card Cash UPI
+Shopping_Spot,Karol Bagh,Market,Central Delhi,500-2000,Free entry,Daily,10AM-9PM,Electronics clothes shoes,4.0,N/A,Cash UPI
+Shopping_Spot,Lajpat Nagar,Market,South Delhi,200-1000,Free entry,Daily,10AM-9PM,Clothes accessories,4.1,N/A,Cash UPI
+Shopping_Spot,Sarojini Nagar,Market,South Delhi,100-800,Free entry,Daily,10AM-8PM,Export surplus clothes,4.0,N/A,Cash
+Shopping_Spot,Khan Market,Market,Central Delhi,800-3000,Free entry,Daily,10AM-8PM,Books branded goods cafes,4.3,N/A,Card Cash UPI
+Shopping_Spot,Select City Walk,Shopping Mall,Saket,1000-5000,Free entry,Daily,10AM-10PM,Branded goods entertainment,4.4,011-4717-8888,Card Cash UPI
+Shopping_Spot,DLF Mall of India,Shopping Mall,Noida,1200-6000,Free entry,Daily,10AM-10PM,International brands,4.3,0120-478-8888,Card Cash UPI
+Shopping_Spot,Dilli Haat,Handicraft Market,Multiple locations,300-1500,30 entry fee,Daily,10:30AM-10PM,Handicrafts ethnic wear,4.2,011-2611-9055,Cash Card
+Shopping_Spot,Janpath Market,Market,Central Delhi,200-1200,Free entry,Daily,10AM-7:30PM,Handicrafts jewelry clothes,4.0,N/A,Cash UPI
+Shopping_Spot,Palika Bazaar,Underground Market,Connaught Place,150-800,Free entry,Daily,10AM-8PM,Electronics accessories,3.8,N/A,Cash UPI
+Restaurant,Karim's,Mughlai,Old Delhi,300-500,N/A,Daily,All day,Mutton Korma Kebabs,4.2,011-2326-9880,Cash UPI
+Restaurant,Paranthe Wali Gali,North Indian,Chandni Chowk,100-200,N/A,Daily,Morning-Evening,Stuffed Parathas,4.0,Street Vendor,Cash
+Restaurant,Al Jawahar,Mughlai,Old Delhi,200-400,N/A,Daily,All day,Biryani Tandoor,4.1,011-2327-3775,Cash Card
+Restaurant,Bukhara,North Indian,Maurya Sheraton,3000-5000,N/A,Daily,Dinner only,Dal Bukhara Tandoor,4.5,011-2611-2233,Card Cash UPI
+Restaurant,Indian Accent,Modern Indian,Manor Hotel,2500-4000,N/A,Daily,Lunch Dinner,Contemporary Indian,4.4,011-4323-5151,Card Cash UPI
+Restaurant,Saravana Bhavan,South Indian,Multiple locations,200-400,N/A,Daily,All day,Dosa South Indian thali,4.2,011-4175-7755,Card Cash UPI
+Restaurant,Haldiram's,Vegetarian/Sweets,Multiple locations,150-300,N/A,Daily,All day,Chaat Sweets,4.0,Multiple,Card Cash UPI
+Restaurant,Cafe Lota,Indian Fusion,Pragati Maidan,400-700,N/A,Daily,All day,Regional Indian dishes,4.3,011-2337-8945,Card Cash UPI
+Restaurant,Gulati,North Indian,Pandara Road,400-800,N/A,Daily,All day,Butter Chicken Dal,4.2,011-2338-7433,Card Cash UPI
+Restaurant,Chor Bizarre,Kashmiri/Continental,Bikaner House,800-1500,N/A,Daily,Lunch Dinner,Kashmiri Wazwan,4.1,011-2379-3821,Card Cash UPI
+Hotel,The Imperial,Luxury,Connaught Place,15000-25000,N/A,Daily,24 hours check-in,Spa Pool Multiple restaurants,4.6,011-2334-1234,Card Cash UPI
+Hotel,The Oberoi,Luxury,Golf Links,20000-35000,N/A,Daily,24 hours check-in,Spa Pool Butler service,4.7,011-2436-3030,Card Cash UPI
+Hotel,Taj Palace,Luxury,Diplomatic Enclave,12000-22000,N/A,Daily,24 hours check-in,Spa Pool Business center,4.5,011-2611-0202,Card Cash UPI
+Hotel,The Leela Palace,Luxury,Chanakyapuri,18000-30000,N/A,Daily,24 hours check-in,Spa Pool Fine dining,4.6,011-3933-1234,Card Cash UPI
+Hotel,Radisson Blu,Business,Paschim Vihar,6000-12000,N/A,Daily,24 hours check-in,Pool Business center,4.3,011-4655-1234,Card Cash UPI
+Hotel,Crowne Plaza,Business,Okhla,5000-10000,N/A,Daily,24 hours check-in,Pool Gym Business center,4.2,011-4277-1200,Card Cash UPI
+Hotel,Hotel Shanti Palace,Mid-range,Karol Bagh,3000-6000,N/A,Daily,24 hours check-in,Restaurant Room service,4.1,011-4577-7777,Card Cash UPI
+Hotel,The Metropolitan,Mid-range,Connaught Place,4000-8000,N/A,Daily,24 hours check-in,Restaurant Business center,4.2,011-4358-3000,Card Cash UPI
+Hotel,Bloom Hotel,Budget,Karolbagh,2000-4000,N/A,Daily,24 hours check-in,Restaurant WiFi,4.0,011-4050-3333,Card Cash UPI
+Hotel,Hotel Tara Palace,Budget,Chandni Chowk,1500-3000,N/A,Daily,24 hours check-in,Restaurant AC rooms,3.9,011-2327-5919,Cash UPI
+Hotel,Zostel Delhi,Hostel,Multiple locations,800-1500,N/A,Daily,24 hours check-in,Shared/Private rooms Common area,4.1,9540-222-222,Card Cash UPI
+Hotel,Backpacker Panda,Hostel,Paharganj,600-1200,N/A,Daily,24 hours check-in,Dorms Common kitchen,4.0,011-4358-7777,Cash UPI

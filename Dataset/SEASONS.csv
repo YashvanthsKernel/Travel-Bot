@@ -1,0 +1,13 @@
+City,State,Best_Season,Best_Months,Min_Temp_C,Max_Temp_C,Weather_Description,Why_Visit_This_Season,Key_Attractions,Avoid_Months,Avoid_Reason,Special_Events,Tourist_Crowd_Level,Price_Level
+Chennai,Tamil Nadu,Winter,December-February,20,30,Cooler and less humid,Most comfortable weather with lower humidity,Marina Beach|Kapaleeshwarar Temple|Fort St. George,April-June,Extreme heat and humidity,Music Festival (Dec-Jan),Medium,Medium
+Hyderabad,Telangana,Winter,November-February,15,28,Pleasant and dry,Cool and comfortable weather,Charminar|Golconda Fort|Hussain Sagar Lake,March-June,Hot and dry conditions,Bonalu Festival (Jul-Aug),Medium,Medium
+Mumbai,Maharashtra,Winter,November-February,18,30,Dry and comfortable,Low humidity and pleasant weather,Gateway of India|Marine Drive|Elephanta Caves,June-September,Heavy monsoon rains,Ganesh Chaturthi (Aug-Sep),High,High
+Delhi,Delhi,Winter,November-March,8,25,Pleasant winter weather,Clear skies and comfortable temperatures,Red Fort|India Gate|Qutub Minar,April-June,Extreme heat and dust storms,Republic Day (Jan),High,High
+Agra,Uttar Pradesh,Winter,October-March,12,28,Ideal sightseeing weather,Perfect for outdoor monument visits,Taj Mahal|Agra Fort|Fatehpur Sikri,April-June,Scorching heat,Taj Mahotsav (Feb-Mar),High,High
+Kochi,Kerala,Winter,October-March,24,32,Post-monsoon freshness,Lush landscapes and clear skies,Chinese Fishing Nets|Fort Kochi|Backwaters,April-May,Hot and humid,Cochin Carnival (Dec-Jan),Medium,Medium
+Kochi,Kerala,Monsoon,June-September,25,30,Monsoon beauty,Experience Kerala's monsoon charm,Backwater cruises|Ayurveda treatments|Spice plantations,April-May,Hot and humid,Monsoon festivals,Low,Low
+Goa,Goa,Winter,November-March,20,32,Perfect beach weather,Dry season ideal for beaches,Baga Beach|Basilica of Bom Jesus|Spice plantations,June-September,Heavy monsoon rains,Christmas and New Year,Very High,Very High
+Goa,Goa,Monsoon,June-September,25,30,Green landscapes,Waterfalls and lush greenery,Dudhsagar Falls|Spice plantations|Monsoon retreats,April-May,Pre-monsoon heat,Sao Joao Festival (Jun),Low,Low
+Varanasi,Uttar Pradesh,Winter,November-March,12,28,Clear skies,Perfect for sunrise boat rides and temple visits,Kashi Vishwanath Temple|Ganga Aarti|Sarnath,April-June,Extreme heat,Dev Deepavali (Nov),High,Medium
+Udaipur,Rajasthan,Winter,October-March,12,28,Pleasant lake weather,Comfortable for palace exploration,City Palace|Lake Pichola|Jagmandir Island,April-June,Desert heat,World Music Festival (Feb),High,High
+Jaipur,Rajasthan,Winter,November-March,10,26,Comfortable desert climate,Ideal for fort and palace visits,Amber Fort|Hawa Mahal|City Palace,April-June,Extreme desert heat,Literature Festival (Jan),High,High

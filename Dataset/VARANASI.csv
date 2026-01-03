@@ -1,0 +1,53 @@
+Category,Sub_Category,Name,Location_Area,Price_Range_INR,Description,Rating,Contact_Timings
+Tourist Spots,Ghat,Dashashwamedh Ghat,Godowlia,Free-200,Main ghat famous for Ganga Aarti ceremony,4.7/5,5:00 AM - 10:00 PM
+Tourist Spots,Ghat,Assi Ghat,Assi,Free-100,Popular ghat for sunrise boat rides and yoga,4.6/5,5:00 AM - 9:00 PM
+Tourist Spots,Ghat,Manikarnika Ghat,Manikarnika,Free,Main cremation ghat sacred for final rites,4.5/5,24 hours
+Tourist Spots,Ghat,Harishchandra Ghat,Harish Chandra,Free,Ancient cremation ghat with spiritual significance,4.4/5,24 hours
+Tourist Spots,Ghat,Chet Singh Ghat,Chet Singh,Free-50,Historic ghat with fort ruins,4.2/5,5:00 AM - 8:00 PM
+Tourist Spots,Temple,Kashi Vishwanath Temple,Vishwanath Gali,Free,Most sacred Shiva temple in Varanasi,4.8/5,3:00 AM - 11:00 PM
+Tourist Spots,Temple,Sankat Mochan Hanuman Temple,Lanka,Free,Famous Hanuman temple founded by Tulsidas,4.6/5,5:00 AM - 10:00 PM
+Tourist Spots,Temple,Durga Temple,Durga Kund,Free,Red temple dedicated to Goddess Durga,4.5/5,6:00 AM - 8:00 PM
+Tourist Spots,Temple,Tulsi Manas Temple,Durgakund,Free,Modern temple built where Ramcharitmanas was written,4.4/5,5:00 AM - 12:00 PM & 4:00 PM - 9:00 PM
+Tourist Spots,University,Banaras Hindu University,BHU Campus,Free-100,Prestigious university with Bharat Kala Bhavan museum,4.5/5,10:00 AM - 5:00 PM
+Tourist Spots,Archaeological,Sarnath,10 km from Varanasi,30-250,Buddhist pilgrimage site where Buddha gave first sermon,4.6/5,9:00 AM - 5:00 PM
+Tourist Spots,Fort,Ramnagar Fort,Ramnagar,50-150,18th-century fort and museum of Kashi Raj family,4.2/5,10:00 AM - 5:00 PM
+Tourist Spots,Boat Ride,Ganges Boat Ride,Various Ghats,300-1500,Sunrise and sunset boat rides on holy Ganges,4.7/5,5:00 AM - 7:00 PM
+Tourist Spots,Observatory,Man Mandir Observatory,Man Mandir Ghat,50-100,Historic observatory built by Maharaja Jai Singh,4.1/5,9:00 AM - 5:00 PM
+Shopping,Silk,Weaver's Studio,Peeli Kothi,1000-15000,Authentic Banarasi silk sarees and fabrics,4.4/5,10:00 AM - 8:00 PM
+Shopping,Market,Vishwanath Gali,Godowlia,200-5000,Narrow lanes with religious items and souvenirs,4.2/5,8:00 AM - 9:00 PM
+Shopping,Silk,Mehrotra Silk Factory,Shivpur,800-12000,Direct from factory Banarasi silk products,4.3/5,9:00 AM - 7:00 PM
+Shopping,Market,Thatheri Bazaar,Chowk,100-3000,Traditional market for brass items and utensils,4.1/5,10:00 AM - 8:00 PM
+Shopping,Handicrafts,Chowk Area,Chowk,150-2500,Traditional crafts toys and wooden items,4.0/5,10:00 AM - 8:00 PM
+Shopping,Books,Harmony Books,Assi Ghat,100-1500,Bookstore specializing in spiritual and philosophy books,4.3/5,9:00 AM - 9:00 PM
+Shopping,Art,Subhash Arts,Dashashwamedh,500-8000,Miniature paintings and traditional art,4.2/5,10:00 AM - 8:00 PM
+Shopping,Rudraksha,Rudraksha Shops,Vishwanath Temple Area,50-5000,Sacred beads and religious items,4.1/5,8:00 AM - 9:00 PM
+Food,Traditional,Kachori Gali,Vishwanath Gali,30-150,Famous street for kachori and traditional snacks,4.5/5,7:00 AM - 10:00 PM
+Food,Sweets,Ksheer Sagar,Godowlia,50-300,Famous for malaiyo and traditional sweets,4.6/5,6:00 AM - 11:00 PM
+Food,Street Food,Deena Chat Bhandar,Godowlia,40-200,Popular for chaat and tamatar chaat,4.4/5,11:00 AM - 10:00 PM
+Food,Traditional,Blue Lassi Shop,Kachori Gali,80-250,Iconic lassi shop with fruit toppings,4.7/5,8:00 AM - 10:00 PM
+Food,South Indian,Vaatika Cafe,Assi Ghat,200-600,Rooftop cafe with Ganges view,4.3/5,7:00 AM - 11:00 PM
+Food,Multi-cuisine,Brown Bread Bakery,Assi Ghat,300-800,Popular bakery and cafe among travelers,4.4/5,7:00 AM - 10:00 PM
+Food,Fine Dining,Varuna Restaurant,Hotel Clarks Varanasi,1200-2500,Multi-cuisine restaurant with AC dining,4.2/5,12:30 PM - 3:00 PM & 7:30 PM - 11:00 PM
+Food,Traditional,Madhur Milan Cafe,Assi Ghat,150-500,Traditional Banarasi breakfast and meals,4.3/5,6:00 AM - 10:00 PM
+Food,Street Food,Ram Bhandar,Thatheri Bazaar,25-120,Famous for baati chokha and local snacks,4.5/5,8:00 AM - 9:00 PM
+Food,Vegetarian,Pizzeria Vaatika Cafe,Assi Ghat,400-1000,Multi-cuisine with Italian options,4.1/5,11:00 AM - 11:00 PM
+Hotels,Heritage,Taj Ganges,Nadesar Palace,8000-25000,Luxury heritage hotel with palace views,4.4/5,Check-in: 2:00 PM
+Hotels,Heritage,Suryauday Haveli,Asi Ghat,4000-12000,Heritage haveli overlooking Ganges,4.5/5,Check-in: 12:00 PM
+Hotels,Mid-Range,Hotel Clarks Varanasi,The Mall,3000-8000,Business hotel with modern amenities,4.2/5,Check-in: 2:00 PM
+Hotels,Budget,Shiva Ganges View,Asi Ghat,1500-4000,Budget hotel with river views,4.1/5,Check-in: 12:00 PM
+Hotels,Hostel,Stops Hostel,Assi Ghat,600-2000,Backpacker hostel near ghats,4.3/5,Check-in: 1:00 PM
+Hotels,Heritage,BrijRama Palace,Darbanga Ghat,6000-18000,Heritage palace hotel on Ganges,4.6/5,Check-in: 2:00 PM
+Hotels,Budget,Hotel Alka,Asi Ghat,1000-3000,Basic budget accommodation near river,3.9/5,Check-in: 12:00 PM
+Hotels,Mid-Range,Ganpati Guest House,Asi Ghat,2000-5000,Clean guesthouse with rooftop restaurant,4.2/5,Check-in: 11:00 AM
+Hotels,Luxury,Gateway Hotel Ganges,Raja Bazar,5000-15000,Modern luxury hotel with spa,4.3/5,Check-in: 3:00 PM
+Hotels,Heritage,Rashmi Guest House,Munshi Ghat,1200-3500,Traditional guesthouse with Ganges view,4.0/5,Check-in: 12:00 PM
+Hotels,Boutique,Villa Varanasi,Shivpur,3500-10000,Boutique property away from city chaos,4.4/5,Check-in: 2:00 PM
+Hotels,Budget,Zostel Varanasi,Assi Ghat,800-2500,Modern hostel with social spaces,4.2/5,Check-in: 2:00 PM
+Tourist Spots,Cultural,Ganga Aarti,Dashashwamedh Ghat,Free,Daily evening prayer ceremony on Ganges,4.8/5,6:30 PM - 7:30 PM
+Tourist Spots,Museum,Bharat Kala Bhavan,BHU Campus,20-50,Museum with ancient Indian art and sculptures,4.3/5,11:00 AM - 4:30 PM
+Tourist Spots,Cultural,Subah-e-Banaras,Assi Ghat,Free,Morning cultural program with music,4.4/5,6:00 AM - 7:00 AM
+Tourist Spots,Religious,Alamgir Mosque,Panchganga Ghat,Free,Historic mosque built by Aurangzeb,4.1/5,Sunrise to sunset
+Tourist Spots,Garden,Kamachha Temple,Kamachha,Free-50,Ancient temple in caves with natural spring,4.2/5,6:00 AM - 6:00 PM
+Tourist Spots,Cultural,Classical Music Concert,Various Venues,500-2000,Traditional Indian classical music performances,4.5/5,Evening shows
+Food,Traditional,Banarasi Paan,Vishwanath Gali,20-100,Traditional betel leaf preparation,4.6/5,8:00 AM - 11:00 PM
+Food,Traditional,Dalmoth,Thatheri Bazaar,100-400,Famous Banarasi mixture and snacks,4.4/5,9:00 AM - 9:00 PM

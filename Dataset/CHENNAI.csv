@@ -1,0 +1,45 @@
+Type,Name,Category,Location,Price_Range_INR,Entry_Fee_INR,Best_Time_Duration,Operating_Hours,Specialty_Description,Rating,Contact,Payment_Methods
+Tourist_Spot,Marina Beach,Beach,Marina,Free,Free,Evening 2-3 hours,24 hours,Second longest urban beach in the world,4.2,N/A,N/A
+Tourist_Spot,Kapaleeshwarar Temple,Religious Site,Mylapore,Free,Free,Daily 1-2 hours,5:30AM-12PM 4PM-9PM,Ancient Shiva temple Dravidian architecture,4.4,044-2464-1670,Cash
+Tourist_Spot,Fort St. George,Historical Monument,George Town,15-250,15 (Indian) 250 (Foreign),Daily 2-3 hours,10AM-5PM,First British fortress in India museum,4.1,044-2567-1127,Cash Card
+Tourist_Spot,Government Museum,Museum,Egmore,15-250,15 (Indian) 250 (Foreign),Daily 2-3 hours,9:30AM-5PM,Bronze gallery archaeology collection,4.2,044-2819-3238,Cash Card
+Tourist_Spot,San Thome Cathedral,Religious Site,Mylapore,Free,Free,Daily 1 hour,6AM-8PM,Built over St Thomas tomb neo-Gothic style,4.3,044-2498-0232,N/A
+Tourist_Spot,Mahabalipuram,Historical Site,Mahabalipuram,40-600,40 (Indian) 600 (Foreign),Full day 4-6 hours,6AM-6PM,UNESCO World Heritage rock-cut temples,4.5,044-2744-2226,Cash Card
+Tourist_Spot,Vadapalani Temple,Religious Site,Vadapalani,Free,Free,Daily 1-2 hours,4:30AM-12PM 4PM-9:30PM,Famous Murugan temple modern architecture,4.3,044-2485-1728,Cash
+Tourist_Spot,Birla Planetarium,Science Center,Periyamet,25-50,25 (Adult) 15 (Child),Daily 1-2 hours,10:15AM-7:45PM,Space shows astronomy exhibits,4.1,044-2819-4652,Cash Card
+Tourist_Spot,Chennai Rail Museum,Museum,Perambur,20-50,20 (Adult) 10 (Child),Daily 1-2 hours,10AM-5PM,Vintage trains railway heritage,4.0,044-2663-4816,Cash
+Tourist_Spot,Guindy National Park,Nature Park,Guindy,15-100,15 (Adult) 5 (Child),Daily 2-3 hours,9AM-5:30PM,Urban national park snake park,4.1,044-2235-2024,Cash
+Shopping_Spot,Express Avenue,Shopping Mall,Royapettah,1000-8000,Free entry,Daily,10AM-10PM,Largest mall in South India branded goods,4.3,044-4224-4000,Card Cash UPI
+Shopping_Spot,Phoenix MarketCity,Shopping Mall,Velachery,1200-10000,Free entry,Daily,10AM-10PM,Premium brands entertainment dining,4.4,044-4747-4747,Card Cash UPI
+Shopping_Spot,T. Nagar,Shopping District,T. Nagar,200-5000,Free entry,Daily,10AM-9PM,Sarees jewelry traditional wear,4.1,N/A,Cash Card UPI
+Shopping_Spot,Pondy Bazaar,Market,T. Nagar,150-2000,Free entry,Daily,10AM-9PM,Clothes accessories cosmetics,4.0,N/A,Cash UPI
+Shopping_Spot,Spencer Plaza,Shopping Mall,Anna Salai,800-6000,Free entry,Daily,10AM-10PM,India's oldest shopping mall,4.1,044-2846-1016,Card Cash UPI
+Shopping_Spot,Ampa Skywalk,Shopping Mall,Aminjikarai,1000-7000,Free entry,Daily,10AM-10PM,Fashion electronics dining,4.2,044-4567-8900,Card Cash UPI
+Shopping_Spot,Khader Nawaz Khan Road,Street Shopping,Nungambakkam,300-2500,Free entry,Daily,10AM-8PM,Export garments trendy clothes,4.0,N/A,Cash UPI
+Shopping_Spot,Sowcarpet,Wholesale Market,George Town,100-1500,Free entry,Daily,9AM-7PM,Wholesale goods traditional items,3.9,N/A,Cash
+Shopping_Spot,VR Chennai,Shopping Mall,Anna Nagar,1500-12000,Free entry,Daily,10AM-10PM,Luxury brands premium shopping,4.5,044-6120-0000,Card Cash UPI
+Shopping_Spot,Burma Bazaar,Market,George Town,50-800,Free entry,Daily,10AM-7PM,Imported goods electronics,3.8,N/A,Cash
+Restaurant,Murugan Idli Shop,South Indian,Multiple locations,80-200,N/A,Daily,6AM-11PM,Famous idli sambar filter coffee,4.3,044-2434-4429,Cash UPI
+Restaurant,Saravana Bhavan,South Indian,Multiple locations,150-400,N/A,Daily,6AM-11PM,Vegetarian South Indian meals,4.2,044-2811-2755,Card Cash UPI
+Restaurant,Buhari,Multi-cuisine,Anna Salai,300-800,N/A,Daily,11AM-11PM,Biryani inventor authentic flavors,4.1,044-2852-3525,Card Cash UPI
+Restaurant,Dakshin,South Indian Fine Dining,Park Sheraton,1500-3000,N/A,Daily,7PM-11:30PM,Regional South Indian cuisine,4.4,044-2499-4101,Card Cash UPI
+Restaurant,Annalakshmi,Vegetarian,Multiple locations,200-500,N/A,Daily,11:30AM-3PM 7PM-10:30PM,Trust-based payment authentic vegetarian,4.3,044-2434-1519,Cash Card UPI
+Restaurant,Mathsya,Seafood,Besant Nagar,600-1200,N/A,Daily,12PM-3PM 7PM-11PM,Fresh seafood coastal cuisine,4.2,044-2446-1637,Card Cash UPI
+Restaurant,Ponnusamy Hotel,Non-vegetarian,Multiple locations,200-600,N/A,Daily,11AM-11PM,Chettinad cuisine mutton dishes,4.1,044-2434-2345,Cash Card UPI
+Restaurant,Southern Spice,South Indian,Taj Coromandel,2000-4000,N/A,Daily,12:30PM-2:45PM 7:30PM-11:45PM,Upscale South Indian dining,4.4,044-6600-0000,Card UPI
+Restaurant,Madras Pavilion,Multi-cuisine,ITC Grand Chola,1800-3500,N/A,Daily,6:30AM-11PM,International buffet fine dining,4.5,044-2220-0000,Card UPI
+Restaurant,Kaidi Kitchen,Theme Restaurant,Multiple locations,400-800,N/A,Daily,11AM-11PM,Prison-themed restaurant North Indian,4.0,044-4567-1234,Card Cash UPI
+Hotel,ITC Grand Chola,Luxury,Guindy,18000-35000,N/A,Daily,24 hours check-in,Luxury resort-style hotel multiple restaurants,4.6,044-2220-0000,Card Cash UPI
+Hotel,Taj Coromandel,Luxury,Nungambakkam,15000-28000,N/A,Daily,24 hours check-in,Heritage luxury hotel premium dining,4.5,044-6600-0000,Card Cash UPI
+Hotel,The Leela Palace,Luxury,Adyar,20000-40000,N/A,Daily,24 hours check-in,Beachfront luxury spa fine dining,4.7,044-3366-1234,Card Cash UPI
+Hotel,Hyatt Regency,Luxury,Teynampet,12000-25000,N/A,Daily,24 hours check-in,Business luxury rooftop restaurant,4.4,044-6123-1234,Card Cash UPI
+Hotel,Radisson Blu,Business,Egmore,8000-16000,N/A,Daily,24 hours check-in,Business hotel near railway station,4.3,044-4299-9999,Card Cash UPI
+Hotel,Trident Chennai,Business,GST Road,7000-14000,N/A,Daily,24 hours check-in,Airport proximity business facilities,4.2,044-2234-4747,Card Cash UPI
+Hotel,The Residency,Mid-range,T. Nagar,4000-8000,N/A,Daily,24 hours check-in,Shopping district location comfortable rooms,4.1,044-2815-0808,Card Cash UPI
+Hotel,Hotel Chandra Park,Mid-range,Alwarpet,3500-7000,N/A,Daily,24 hours check-in,Central location restaurant,4.0,044-2499-0202,Card Cash UPI
+Hotel,Shelter Hotel,Budget,Egmore,2000-4000,N/A,Daily,24 hours check-in,Railway station proximity basic amenities,3.9,044-2819-2323,Cash Card UPI
+Hotel,Hotel Raya's,Budget,Triplicane,1800-3500,N/A,Daily,24 hours check-in,Traditional area budget-friendly,3.8,044-2859-4624,Cash UPI
+Hotel,YMCA,Budget,Nandanam,1200-2500,N/A,Daily,24 hours check-in,Clean budget accommodation,4.0,044-2434-4661,Cash Card
+Hotel,Zostel Chennai,Hostel,Thoraipakkam,800-1800,N/A,Daily,24 hours check-in,IT corridor location shared rooms,4.1,7338-999-007,Card Cash UPI
+Hotel,Backpacker Hostel,Hostel,Egmore,600-1500,N/A,Daily,24 hours check-in,Budget travelers dormitory,3.9,044-4203-5555,Cash UPI
+Hotel,Moustache Hostel,Hostel,Mylapore,700-1600,N/A,Daily,24 hours check-in,Cultural area social atmosphere,4.0,9840-567-890,Card Cash UPI

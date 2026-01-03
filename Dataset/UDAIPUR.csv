@@ -1,0 +1,43 @@
+Category,Sub_Category,Name,Location_Area,Price_Range_INR,Description,Rating,Contact_Timings
+Tourist Spots,Palace,City Palace,City Palace Road,300-600,Magnificent palace complex overlooking Lake Pichola,4.6/5,9:30 AM - 5:30 PM
+Tourist Spots,Palace,Lake Palace,Lake Pichola,500-1000,Iconic white marble palace on island in lake,4.7/5,Viewing from outside / Hotel guests only
+Tourist Spots,Palace,Jag Mandir,Lake Pichola,400-800,Island palace with gardens and courtyards,4.5/5,10:00 AM - 6:00 PM (boat ride)
+Tourist Spots,Lake,Lake Pichola,City Center,200-500,Artificial lake with boat rides and sunset views,4.6/5,6:00 AM - 7:00 PM (boats)
+Tourist Spots,Lake,Fateh Sagar Lake,North Udaipur,100-300,Second largest lake with islands and boat rides,4.4/5,9:00 AM - 6:00 PM
+Tourist Spots,Garden,Saheliyon Ki Bari,Saheli Marg,30-50,Garden of maidens with fountains and lotus pools,4.3/5,8:00 AM - 6:00 PM
+Tourist Spots,Temple,Jagdish Temple,City Palace Road,Free,Large Indo-Aryan temple dedicated to Lord Vishnu,4.4/5,4:00 AM - 10:00 PM
+Tourist Spots,Museum,Vintage Car Museum,Gulab Bagh Road,250-400,Collection of vintage and classic cars,4.2/5,9:00 AM - 9:00 PM
+Tourist Spots,Fort,Monsoon Palace,Bansdara Peak,300-500,Hilltop palace with panoramic city views,4.3/5,9:00 AM - 6:00 PM
+Tourist Spots,Cultural,Bagore Ki Haveli,Gangaur Ghat,60-100,Historic haveli with cultural performances,4.4/5,10:00 AM - 5:30 PM
+Tourist Spots,Temple,Eklingji Temple,Kailashpuri,Free,Ancient temple complex 22 km from Udaipur,4.5/5,4:30 AM - 7:00 PM
+Tourist Spots,Lake,Udai Sagar Lake,East Udaipur,50-200,Scenic lake with dam and bird watching,4.1/5,Sunrise to sunset
+Shopping,Market,Hathi Pol Bazaar,Old City,200-5000,Traditional market for miniature paintings and handicrafts,4.2/5,10:00 AM - 8:00 PM
+Shopping,Market,Bada Bazaar,Chetak Circle,100-3000,Local market for textiles and daily items,4.0/5,9:00 AM - 9:00 PM
+Shopping,Market,Clock Tower Market,Ghanta Ghar,150-2500,Bustling market for spices jewelry and textiles,4.1/5,10:00 AM - 8:30 PM
+Shopping,Handicrafts,Shilpgram,Havala Village,50-3000,Craft village with artisan demonstrations,4.3/5,11:00 AM - 7:00 PM
+Shopping,Mall,Celebration Mall,Durga Nursery Road,500-8000,Modern shopping mall with brands and food court,4.2/5,10:00 AM - 10:00 PM
+Shopping,Art,Miniature Painting Shops,City Palace Road,500-15000,Authentic Rajasthani miniature paintings,4.4/5,10:00 AM - 7:00 PM
+Shopping,Handicrafts,Rajasthali,Chetak Circle,200-4000,Government emporium for certified handicrafts,4.1/5,10:00 AM - 7:30 PM
+Shopping,Textiles,Sadhna,Jagdish Temple Road,800-6000,Fair trade textiles and embroidered items,4.3/5,9:30 AM - 8:00 PM
+Food,Fine Dining,Ambrai,Amet Haveli,2000-4000,Lakeside dining with palace views,4.7/5,7:00 PM - 11:00 PM
+Food,Rooftop,Upre by 1559 AD,Lake Palace Road,1800-3500,Rooftop restaurant with lake views,4.6/5,7:00 PM - 11:30 PM
+Food,Traditional,Natraj Dining Hall,City Station Road,200-600,Famous for traditional Rajasthani thali,4.5/5,11:00 AM - 3:00 PM & 7:00 PM - 10:30 PM
+Food,Street Food,Shree Mishrilal Hotel,Jagdish Temple,50-200,Famous for lassi and traditional sweets,4.4/5,6:00 AM - 11:00 PM
+Food,Multi-cuisine,Tribute Restaurant,Lake Palace Road,1200-2800,Multi-cuisine with live music,4.4/5,7:00 PM - 11:00 PM
+Food,Cafe,Jheel's Ginger Coffee Bar,Gangaur Ghat,300-800,Lakeside cafe with coffee and snacks,4.3/5,8:00 AM - 11:00 PM
+Food,Traditional,Jagat Niwas Palace,Lake Palace Road,1500-3000,Heritage hotel restaurant with lake views,4.5/5,7:00 AM - 11:00 PM
+Food,Vegetarian,Millets of Mewar,Fateh Prakash Palace,800-1800,Healthy vegetarian cuisine,4.4/5,12:30 PM - 3:00 PM & 7:30 PM - 10:30 PM
+Food,Rooftop,Rainbow Restaurant,Lake Palace Road,600-1500,Colorful rooftop restaurant with city views,4.2/5,8:00 AM - 11:00 PM
+Food,Fine Dining,1559 AD,City Palace,2500-5000,Royal dining experience in palace setting,4.8/5,7:00 PM - 10:30 PM
+Hotels,Luxury,The Oberoi Udaivilas,Haridasji Ki Magri,40000-120000,Ultra-luxury resort with private pools,4.8/5,Check-in: 2:00 PM
+Hotels,Luxury,Taj Lake Palace,Lake Pichola,35000-150000,Iconic floating palace hotel,4.7/5,Check-in: 2:00 PM
+Hotels,Heritage,Shiv Niwas Palace,City Palace Complex,15000-40000,Heritage palace hotel with royal suites,4.6/5,Check-in: 2:00 PM
+Hotels,Heritage,Fateh Prakash Palace,City Palace Complex,12000-35000,Heritage hotel with crystal gallery,4.5/5,Check-in: 2:00 PM
+Hotels,Mid-Range,Jagat Niwas Palace,Lake Palace Road,4000-12000,Heritage hotel on lake shore,4.4/5,Check-in: 12:00 PM
+Hotels,Mid-Range,Hotel Lakend,Fateh Sagar Lake,3000-8000,Lakeside hotel with modern amenities,4.3/5,Check-in: 1:00 PM
+Hotels,Budget,Zostel Udaipur,Lake Palace Road,800-2000,Backpacker hostel with lake views,4.2/5,Check-in: 2:00 PM
+Hotels,Heritage,Amet Haveli,Outside Chandpole,5000-15000,Heritage haveli with lakeside dining,4.4/5,Check-in: 2:00 PM
+Hotels,Budget,Moustache Hostel,Lal Ghat,600-1500,Budget hostel near City Palace,4.1/5,Check-in: 12:00 PM
+Hotels,Mid-Range,Hotel Hilltop Palace,Ambavgarh,2500-7000,Hilltop location with panoramic views,4.2/5,Check-in: 1:00 PM
+Hotels,Luxury,The Leela Palace Udaipur,Lake Pichola,25000-80000,Luxury hotel with spa and lake views,4.7/5,Check-in: 3:00 PM
+Hotels,Heritage,Kankarwa Haveli,Lal Ghat,3500-10000,Traditional haveli near City Palace,4.3/5,Check-in: 2:00 PM

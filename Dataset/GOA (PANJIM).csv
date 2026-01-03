@@ -1,0 +1,53 @@
+Category,Sub_Category,Name,Location_Area,Price_Range_INR,Description,Rating,Contact_Timings
+Tourist Spots,Beach,Baga Beach,North Goa,Free-500,Popular beach with water sports and nightlife,4.3/5,24 hours
+Tourist Spots,Beach,Calangute Beach,North Goa,Free-300,Queen of beaches with shacks and activities,4.2/5,24 hours
+Tourist Spots,Beach,Anjuna Beach,North Goa,Free-400,Famous for flea market and trance parties,4.4/5,24 hours
+Tourist Spots,Beach,Vagator Beach,North Goa,Free-200,Scenic beach with red cliffs and sunset views,4.5/5,24 hours
+Tourist Spots,Beach,Palolem Beach,South Goa,Free-300,Crescent-shaped beach with coconut palms,4.6/5,24 hours
+Tourist Spots,Beach,Arambol Beach,North Goa,Free-200,Bohemian beach with drum circles and yoga,4.4/5,24 hours
+Tourist Spots,Beach,Colva Beach,South Goa,Free-250,Longest beach in Goa with white sand,4.1/5,24 hours
+Tourist Spots,Church,Basilica of Bom Jesus,Old Goa,Free,UNESCO World Heritage site with St Francis Xavier,4.7/5,9:00 AM - 6:30 PM
+Tourist Spots,Church,Se Cathedral,Old Goa,Free,Largest church in Asia dedicated to St Catherine,4.6/5,7:30 AM - 6:00 PM
+Tourist Spots,Fort,Aguada Fort,Sinquerim,Free,17th-century Portuguese fort with lighthouse,4.4/5,9:30 AM - 5:30 PM
+Tourist Spots,Waterfall,Dudhsagar Falls,Bhagwan Mahavir Sanctuary,300-2000,Four-tiered waterfall with train crossing,4.5/5,Best during monsoon
+Tourist Spots,Wildlife,Bhagwan Mahavir Wildlife Sanctuary,Molem,25-100,Wildlife sanctuary with diverse flora and fauna,4.2/5,8:30 AM - 5:30 PM
+Tourist Spots,Spice Plantation,Sahakari Spice Farm,Ponda,400-800,Organic spice plantation with guided tours,4.3/5,9:00 AM - 5:00 PM
+Tourist Spots,Museum,Goa State Museum,Panaji,10-30,Archaeological artifacts and historical exhibits,4.1/5,9:30 AM - 5:30 PM
+Shopping,Market,Anjuna Flea Market,Anjuna Beach,100-3000,Weekly market with hippie items and souvenirs,4.3/5,Wednesdays 9:00 AM - 6:00 PM
+Shopping,Market,Mapusa Market,Mapusa,50-2000,Traditional Goan market for spices and textiles,4.2/5,Fridays 8:00 AM - 6:30 PM
+Shopping,Market,Saturday Night Market,Arpora,200-5000,Night market with food stalls and live music,4.4/5,Saturdays 6:00 PM - 1:00 AM
+Shopping,Mall,Mall de Goa,Porvorim,500-8000,Largest mall in Goa with international brands,4.1/5,10:00 AM - 10:00 PM
+Shopping,Handicrafts,Government Handicrafts Emporium,Panaji,300-4000,Authentic Goan handicrafts and cashews,4.0/5,9:30 AM - 7:00 PM
+Shopping,Souvenirs,Tibetan Market,Anjuna,150-2500,Tibetan goods jewelry and clothing,4.2/5,9:00 AM - 6:00 PM
+Shopping,Cashews,Cashew Factory,Cuncolim,200-1500,Direct from factory cashews and feni,4.3/5,9:00 AM - 6:00 PM
+Shopping,Beach Shacks,Beach Markets,Various Beaches,100-1000,Beachside stalls with sarongs and accessories,4.0/5,Variable
+Food,Beach Shack,Curlies,Anjuna Beach,800-2000,Iconic beach shack with seafood and cocktails,4.4/5,8:00 AM - 2:00 AM
+Food,Beach Shack,Shiva Valley,Anjuna Beach,600-1800,Popular shack with sunset views and music,4.3/5,10:00 AM - 1:00 AM
+Food,Seafood,Fishermans Wharf,Multiple locations,1200-3000,Goan seafood restaurant with river views,4.5/5,12:00 PM - 12:00 AM
+Food,Portuguese,Viva Panjim,Panaji,800-2000,Authentic Goan-Portuguese cuisine,4.6/5,12:00 PM - 3:30 PM & 7:00 PM - 10:30 PM
+Food,Fine Dining,Thalassa,Vagator Beach,2000-4000,Greek restaurant with cliff-top views,4.7/5,5:00 PM - 1:00 AM
+Food,Local,Vinayak Family Restaurant,Assagao,400-1200,Homestyle Goan cooking,4.5/5,12:00 PM - 3:00 PM & 7:30 PM - 11:00 PM
+Food,Bakery,Infantaria,Calangute,200-800,Famous bakery and cafe since 1966,4.4/5,7:00 AM - 11:00 PM
+Food,Street Food,Ritz Classic,Panaji,300-800,Local Goan snacks and sweets,4.3/5,8:00 AM - 9:00 PM
+Food,Multi-cuisine,Brittos,Baga Beach,1000-2500,Beachfront restaurant with live music,4.2/5,8:00 AM - 1:00 AM
+Food,Fine Dining,Black Sheep Bistro,Panaji,1800-3500,Contemporary European cuisine,4.8/5,6:30 PM - 11:30 PM
+Food,Beach Shack,Sunset Point,Arambol Beach,500-1500,Beachfront dining with sunset views,4.3/5,8:00 AM - 11:00 PM
+Food,Goan,Mum's Kitchen,Panaji,600-1800,Traditional Goan home-style cooking,4.4/5,11:30 AM - 3:30 PM & 7:00 PM - 11:00 PM
+Hotels,Luxury,Taj Exotica Resort & Spa,Benaulim,15000-50000,Beachfront luxury resort with spa,4.6/5,Check-in: 3:00 PM
+Hotels,Luxury,The Leela Goa,Cavelossim,12000-40000,Luxury beach resort with golf course,4.5/5,Check-in: 3:00 PM
+Hotels,Heritage,Pousada by the Beach,Calangute,8000-25000,Portuguese-style heritage hotel,4.4/5,Check-in: 2:00 PM
+Hotels,Beach Resort,Coconut Grove,Bogmalo Beach,5000-15000,Beach resort with water sports,4.3/5,Check-in: 2:00 PM
+Hotels,Budget,Backpacker Panda,Arambol,800-2500,Beach hostel with dorms and private rooms,4.2/5,Check-in: 12:00 PM
+Hotels,Mid-Range,Casa Colvale,Colvale,3000-8000,Boutique hotel in countryside setting,4.4/5,Check-in: 2:00 PM
+Hotels,Beach Resort,Holiday Inn Resort,Candolim,6000-18000,Beachfront resort with multiple restaurants,4.3/5,Check-in: 3:00 PM
+Hotels,Luxury,W Goa,Vagator,20000-60000,Trendy luxury resort with beach club,4.5/5,Check-in: 3:00 PM
+Hotels,Heritage,Ahilya by the Sea,Nerul,4000-12000,Boutique heritage property,4.5/5,Check-in: 2:00 PM
+Hotels,Beach Resort,Zuri White Sands Resort,Varca Beach,8000-25000,All-inclusive beach resort,4.4/5,Check-in: 2:00 PM
+Hotels,Budget,Zostel Goa,Anjuna,1000-3000,Backpacker hostel near beach,4.1/5,Check-in: 2:00 PM
+Hotels,Villa,Casa Britona,Britona Island,6000-20000,Portuguese villa on private island,4.6/5,Check-in: 2:00 PM
+Tourist Spots,Casino,Deltin Royale,Mandovi River,3000-8000,Luxury floating casino with shows,4.2/5,24 hours
+Tourist Spots,Adventure,Scuba Diving,Grande Island,3000-8000,PADI certified scuba diving,4.5/5,8:00 AM - 5:00 PM
+Tourist Spots,Water Sports,Parasailing,Baga Beach,1500-3000,Parasailing and jet ski activities,4.3/5,9:00 AM - 5:00 PM
+Tourist Spots,Cruise,Sunset Cruise,Mandovi River,800-2000,Evening cruise with cultural shows,4.4/5,6:00 PM - 8:00 PM
+Tourist Spots,Temple,Mangeshi Temple,Ponda,Free,Famous Hindu temple with unique architecture,4.5/5,6:00 AM - 10:00 PM
+Tourist Spots,Market,Fish Market,Mapusa,Free-500,Traditional fish market experience,4.0/5,6:00 AM - 12:00 PM

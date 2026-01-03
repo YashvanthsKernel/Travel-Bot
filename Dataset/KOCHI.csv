@@ -1,0 +1,45 @@
+Type,Name,Category,Location,Price_Range_INR,Entry_Fee_INR,Best_Time_Duration,Operating_Hours,Specialty_Description,Rating,Contact,Payment_Methods
+Tourist_Spot,Chinese Fishing Nets,Historical Landmark,Fort Kochi,50-100,Free viewing,Evening 1-2 hours,5AM-7PM,Iconic Kochi symbol ancient fishing technique,4.3,N/A,Cash
+Tourist_Spot,Mattancherry Palace,Historical Monument,Mattancherry,5-25,5 (Indian) 25 (Foreign),Daily 2-3 hours,10AM-5PM,Dutch Palace Kerala murals ramayana paintings,4.2,0484-222-8149,Cash
+Tourist_Spot,Paradesi Synagogue,Religious Site,Jew Town,5-25,5 (Indian) 25 (Foreign),Daily 1 hour,10AM-12PM 3PM-5PM,Oldest active synagogue in Commonwealth,4.1,0484-222-5012,Cash
+Tourist_Spot,St. Francis Church,Religious Site,Fort Kochi,Free,Free,Daily 30-45 mins,9AM-5:30PM,Oldest European church in India Vasco da Gama tomb,4.2,0484-221-7104,N/A
+Tourist_Spot,Santa Cruz Cathedral,Religious Site,Fort Kochi,Free,Free,Daily 45 mins,6AM-7PM,Indo-European architecture beautiful interiors,4.3,0484-221-5659,N/A
+Tourist_Spot,Kerala Folklore Museum,Museum,Thevara,100-300,100 (Adult) 50 (Child),Daily 2-3 hours,9AM-6PM,Traditional Kerala architecture cultural artifacts,4.4,0484-266-3452,Cash Card
+Tourist_Spot,Hill Palace Museum,Museum,Tripunithura,20-100,20 (Indian) 100 (Foreign),Daily 2-3 hours,9AM-5PM,Former Cochin royal family palace archaeological museum,4.1,0484-278-1113,Cash Card
+Tourist_Spot,Marine Drive,Waterfront,Ernakulam,Free,Free,Evening 1-2 hours,24 hours,Scenic walkway backwaters view sunset point,4.2,N/A,N/A
+Tourist_Spot,Cherai Beach,Beach,Cherai,Free,Free,Morning/Evening 2-3 hours,24 hours,Golden sand beach backwaters meet sea,4.1,N/A,N/A
+Tourist_Spot,Backwater Cruise,Water Activity,Kumbakonam Lake,800-3000,800-3000 per person,Half/Full day 3-8 hours,6AM-6PM,Houseboat experience Kerala backwaters,4.5,Multiple operators,Cash Card UPI
+Shopping_Spot,Lulu Mall,Shopping Mall,Edapally,1000-8000,Free entry,Daily,10AM-10PM,Largest mall in India branded goods entertainment,4.4,0484-711-7000,Card Cash UPI
+Shopping_Spot,Oberon Mall,Shopping Mall,Edapally,800-5000,Free entry,Daily,10AM-10PM,Popular shopping destination food court,4.2,0484-400-5000,Card Cash UPI
+Shopping_Spot,MG Road,Shopping Street,Ernakulam,300-3000,Free entry,Daily,10AM-9PM,Main shopping street branded stores,4.1,N/A,Card Cash UPI
+Shopping_Spot,Broadway Market,Traditional Market,Ernakulam,100-1500,Free entry,Daily,9AM-8PM,Spices textiles local products,4.0,N/A,Cash UPI
+Shopping_Spot,Jew Town Antique Market,Antique Market,Mattancherry,200-5000,Free entry,Daily,9AM-6PM,Antiques spices handicrafts,4.2,N/A,Cash Card
+Shopping_Spot,Centre Square Mall,Shopping Mall,Kochi,600-4000,Free entry,Daily,10AM-10PM,Local and branded stores,4.0,0484-401-4000,Card Cash UPI
+Shopping_Spot,Kaloor Stadium Shopping,Market,Kaloor,150-1200,Free entry,Daily,10AM-8PM,Sports goods local items,3.9,N/A,Cash UPI
+Shopping_Spot,Spencer's Kochi,Department Store,Multiple locations,400-2500,Free entry,Daily,9AM-10PM,Groceries household items,4.1,0484-400-0400,Card Cash UPI
+Shopping_Spot,Bay Pride Mall,Shopping Mall,Marine Drive,800-6000,Free entry,Daily,10AM-10PM,Waterfront shopping dining,4.2,0484-235-5000,Card Cash UPI
+Shopping_Spot,Forum Kochi,Shopping Mall,Maradu,1000-7000,Free entry,Daily,10AM-10PM,Premium brands entertainment,4.3,0484-270-7000,Card Cash UPI
+Restaurant,Kashi Art Cafe,Continental/Fusion,Fort Kochi,300-800,N/A,Daily,8AM-11PM,Art gallery cafe European menu,4.4,0484-221-5769,Card Cash UPI
+Restaurant,Oceanos,Multi-cuisine,Fort Kochi,600-1500,N/A,Daily,11AM-11PM,Seafood Continental rooftop dining,4.3,0484-221-8128,Card Cash UPI
+Restaurant,Trilogi,Fine Dining,Vivanta by Taj,2000-4000,N/A,Daily,7PM-11:30PM,International cuisine fine dining,4.5,0484-661-4000,Card UPI
+Restaurant,Rice Boat,Kerala Cuisine,Vivanta by Taj,1800-3500,N/A,Daily,7:30PM-11:30PM,Traditional Kerala seafood backwater view,4.4,0484-661-4000,Card UPI
+Restaurant,Dal Roti,North Indian,Marine Drive,400-900,N/A,Daily,12PM-11PM,Authentic North Indian vegetarian,4.2,0484-235-7777,Card Cash UPI
+Restaurant,Dhe Puttu,Kerala Cuisine,Multiple locations,150-400,N/A,Daily,7AM-10PM,Traditional puttu varieties Kerala breakfast,4.3,0484-405-5555,Cash UPI
+Restaurant,Ginger House,Multi-cuisine,Fort Kochi,500-1200,N/A,Daily,11AM-11PM,Heritage building seafood Continental,4.2,0484-221-7040,Card Cash UPI
+Restaurant,Teapot Cafe,Cafe,Fort Kochi,200-500,N/A,Daily,8AM-10PM,Cozy cafe snacks beverages,4.1,0484-221-8035,Card Cash UPI
+Restaurant,Kayees Rahmathullah Hotel,Biriyani,Multiple locations,180-450,N/A,Daily,11AM-11PM,Famous Thalassery biriyani traditional,4.2,0484-235-2020,Cash UPI
+Restaurant,Pai Brothers,Kerala Cuisine,Ernakulam,120-350,N/A,Daily,6AM-10PM,Authentic Kerala meals fish curry,4.1,0484-235-4848,Cash UPI
+Hotel,Vivanta Kochi,Luxury,Malabar Hill,15000-30000,N/A,Daily,24 hours check-in,Luxury resort spa fine dining,4.6,0484-661-4000,Card Cash UPI
+Hotel,Grand Hyatt Kochi,Luxury,Bolgatty Island,18000-35000,N/A,Daily,24 hours check-in,Island resort backwater views luxury amenities,4.7,0484-661-1234,Card Cash UPI
+Hotel,The Gateway Hotel,Business,Marine Drive,8000-16000,N/A,Daily,24 hours check-in,Waterfront location business facilities,4.4,0484-661-8888,Card Cash UPI
+Hotel,Brunton Boatyard,Heritage Luxury,Fort Kochi,12000-25000,N/A,Daily,24 hours check-in,Heritage hotel waterfront colonial architecture,4.5,0484-301-5000,Card Cash UPI
+Hotel,Old Harbour Hotel,Heritage,Fort Kochi,8000-18000,N/A,Daily,24 hours check-in,Restored Dutch heritage building,4.3,0484-301-8040,Card Cash UPI
+Hotel,Radisson Blu Kochi,Business,Elamkulam,7000-14000,N/A,Daily,24 hours check-in,Modern business hotel,4.2,0484-711-4444,Card Cash UPI
+Hotel,Hotel Presidency,Mid-range,Ernakulam,3500-7000,N/A,Daily,24 hours check-in,Central location business facilities,4.1,0484-235-2255,Card Cash UPI
+Hotel,Avenue Regent,Mid-range,MG Road,3000-6000,N/A,Daily,24 hours check-in,Shopping area proximity comfortable rooms,4.0,0484-238-1122,Card Cash UPI
+Hotel,Hotel Seagull,Budget,Fort Kochi,2000-4000,N/A,Daily,24 hours check-in,Heritage area budget accommodation,3.9,0484-221-6128,Cash Card UPI
+Hotel,Kochi Backpackers,Hostel,Fort Kochi,800-1800,N/A,Daily,24 hours check-in,Heritage area social atmosphere,4.1,9947-123456,Card Cash UPI
+Hotel,Zostel Kochi,Hostel,Fort Kochi,900-2000,N/A,Daily,24 hours check-in,Modern hostel facilities common areas,4.2,0484-405-6789,Card Cash UPI
+Hotel,Fort Queen,Budget,Fort Kochi,1800-3500,N/A,Daily,24 hours check-in,Heritage location basic amenities,3.8,0484-221-7524,Cash UPI
+Hotel,Houseboat Stay,Unique Stay,Alleppey,3000-15000,N/A,Daily,24 hours check-in,Traditional houseboat backwater experience,4.4,Multiple operators,Cash Card UPI
+Hotel,Spice Routes Heritage,Boutique,Kumily,5000-12000,N/A,Daily,24 hours check-in,Spice plantation stay authentic experience,4.3,0484-922-3344,Card Cash UPI
